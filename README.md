@@ -2,7 +2,7 @@
 
 ### [Alesandro](https://AlesandroOrtiz.com) is a Software Engineer and Security Researcher focused on improving the web.
 
-### He writes articles about security vulnerabilities and other topics on [AlesandroOrtiz.com](https://AlesandroOrtiz.com).
+### He writes articles about security vulnerabilities and other topics at [AlesandroOrtiz.com](https://AlesandroOrtiz.com).
 
 [📫 Get new articles via email.](https://AlesandroOrtiz.com/subscribe)
 
