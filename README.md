@@ -8,4 +8,4 @@
 
 [📝 Contact info](https://AlesandroOrtiz.com)
 
-[🐦 Twitter: @AlesandroOrtizR](https://twitter.com/AlesandroOrtizR)
+[💬 Twitter: @AlesandroOrtizR](https://twitter.com/AlesandroOrtizR)
