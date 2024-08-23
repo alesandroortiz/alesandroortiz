@@ -8,4 +8,4 @@
 
 [📝 Contact info](https://AlesandroOrtiz.com)
 
-<a href="https://twitter.com/alesandroortizr"><img alt="Twitter @AlesandroOrtizR" src="https://img.shields.io/twitter/follow/AlesandroOrtizR?label=%40AlesandroOrtizR&style=social"></a>
+<a href="https://infosec.exchange/@AlesandroOrtiz"><img alt="Mastodon @AlesandroOrtiz@infosec.exchange" src="https://img.shields.io/mastodon/follow/109289161792854436?domain=https%3A%2F%2Finfosec.exchange"></a>
